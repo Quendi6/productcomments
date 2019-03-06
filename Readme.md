@@ -35,3 +35,15 @@ That's it: you have contributed to this open-source project! Congratulations!
 [2]: http://doc.prestashop.com/display/PS16/How+to+write+a+commit+message
 [3]: https://help.github.com/articles/using-pull-requests
 
+### Update dependency
+
+The only dependency for this modul (for now) is https://github.com/flaviusmatis/simplePagination.js.git
+You can install/update it by launching the command
+
+```
+# yarn install
+```
+
+(We use yarn because this library is not served as a package for npm).
+
+This will install the library js in assets/js folder.

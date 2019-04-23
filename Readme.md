@@ -37,7 +37,7 @@ That's it: you have contributed to this open-source project! Congratulations!
 
 ### Update dependency
 
-The only dependency for this modul (for now) is https://github.com/flaviusmatis/simplePagination.js.git
+The only dependency for this module (for now) is https://github.com/flaviusmatis/simplePagination.js.git
 You can install/update it by launching the command
 
 ```
